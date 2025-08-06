@@ -1,4 +1,4 @@
-<h1 align="center">  📊 Challenge TelecomX-2 </h1>
+<h1 align="center"> Challenge TelecomX-2 </h1>
 
 # Análise Preditiva de Evasão de Clientes
 
@@ -38,6 +38,14 @@ Principais etapas realizadas:
 * Desenvolver ações de retenção personalizadas para clientes com contratos curtos e valores mensais elevados.
 * Oferecer pacotes promocionais e descontos progressivos para aumentar a fidelização.
 * Utilizar o modelo de Regressão Logística para monitoramento contínuo, possibilitando intervenções proativas em clientes com maior risco de evasão.
+
+📊 Análise de dados - Gráficos
+
+<img width="1735" height="735" alt="image" src="https://github.com/user-attachments/assets/7017ac89-2ff8-475a-8c93-9025657f6838" />
+<img width="1477" height="710" alt="image" src="https://github.com/user-attachments/assets/73b00820-7675-4bb4-8ec5-7e09e7736ca5" />
+<img width="1236" height="732" alt="image" src="https://github.com/user-attachments/assets/fd64953d-703b-4dca-97bf-6bec0ff14603" />
+
+
 
 🔧 Tecnologias e Ferramentas
 * Python 3.10+
