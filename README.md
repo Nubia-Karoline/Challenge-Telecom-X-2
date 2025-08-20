@@ -55,7 +55,7 @@ Principais etapas realizadas:
 * Google Colab / VSCode
 
 ✍️ Autor
-Projeto desenvolvido por Núbia Karoline como parte de um desafio de análise de dados no setor de telecomunicações.
+Projeto desenvolvido por Núbia Karoline, como parte de um desafio de análise de dados no setor de telecomunicações.
 
 
 📝 Licença
