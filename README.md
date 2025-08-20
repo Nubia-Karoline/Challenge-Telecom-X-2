@@ -59,4 +59,5 @@ Projeto desenvolvido por Núbia Karoline como parte de um desafio de análise de
 
 
 📝 Licença
+
 Para fins de prática e estudo, distribuído livremente sob a MIT License.
